@@ -4,7 +4,7 @@ from setuptools import find_packages,setup
 __version__ = '0.0.1'
 REPO_NAME = 'text_summarizer_CI_CD_HuggingFace'
 AUTHOR_USER_NAME = 'TmnGitHub'
-SRC_REPO = "text_summarizer_CI_CD"
+SRC_REPO = "textSummarizerCICD"
 AUTHOR_EMAIL = 'tamanupadhaya@gmail.com'
 DESCRIPTION = 'A small NLP text summarizer application'
 
