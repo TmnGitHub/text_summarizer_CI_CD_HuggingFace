@@ -1,0 +1,8 @@
+artifacts_root: DataFolder
+
+data_ingestion:
+  root_dir: DataFolder/data_ingestion
+  source_URL: https://github.com/TmnGitHub/DataFolder/raw/main/text_summarizer_data/summarizer-data.zip
+  local_data_file: DataFolder/data_ingestion/data.zip
+  unzip_dir: DataFolder/data_ingestion
+
