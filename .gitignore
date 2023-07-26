@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 #folder
-data/
+DataFolder/
+.DS_Store
